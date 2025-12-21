@@ -3,6 +3,6 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&color=ff003a&center=true&vCenter=true&width=500&height=80&duration=2000&lines=Bello!!+🙋🏻‍♂️;+I'm+Deverloper+!!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&color=000047&center=true&vCenter=true&width=500&height=80&duration=2000&lines=Bello!!+🙋🏻‍♂️;+I'm+Deverloper+!!;" />
 </h1>
 
